@@ -2,7 +2,7 @@
 name: "ConFoo Montreal"
 website: https://confoo.ca/en/2027
 location: Montréal, QC, Canada
-lang: English & French
+lang: ['English','French']
 
 date_start: 2027-02-24
 date_end:   2027-02-26
